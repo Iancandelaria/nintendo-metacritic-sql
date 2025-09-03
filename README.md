@@ -68,3 +68,8 @@ Compared critic scores vs fan scores across games, platforms, and years.
 
 - User scores (`user\_score`) are 0–10, scaled to 0–100 for comparison.
 
+
+## Key Insights
+- Pokémon titles (e.g., Scarlet, Violet, Sword/Shield) show the largest gaps, with critics rating them much higher than fans.  
+- GameCube and Wii games are generally fan-favored compared to critics, highlighting nostalgia or underrated value.  
+- Critic vs fan scores mostly trend together over time, but certain years show diverging sentiment.  
